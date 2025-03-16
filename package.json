@@ -1,0 +1,26 @@
+{
+  "name": "file-system-api-router",
+  "version": "1.0.0",
+  "description": "a file based api wrapper for express",
+  "keywords": [
+    "file",
+    "based",
+    "api",
+    "express"
+  ],
+  "homepage": "https://github.com/aquaticcalf/file-system-api-router#readme",
+  "bugs": {
+    "url": "https://github.com/aquaticcalf/file-system-api-router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquaticcalf/file-system-api-router.git"
+  },
+  "license": "MIT",
+  "author": "aquaticcalf",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
