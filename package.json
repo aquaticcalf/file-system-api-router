@@ -1,6 +1,6 @@
 {
   "name": "file-system-api-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a file based api wrapper for express",
   "keywords": [
     "file",
